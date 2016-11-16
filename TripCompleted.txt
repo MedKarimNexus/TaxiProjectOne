@@ -1,0 +1,158 @@
+{
+    "success": true,
+    "total": 20,
+    "error": "Payment By cash",
+    "currency": "$",
+    "is_paid": 1,
+    "request_id": "64",
+    "status": 1,
+    "confirmed_walker": 14,
+    "is_walker_started": 1,
+    "is_walker_arrived": 1,
+    "is_walk_started": 1,
+    "is_completed": 1,
+    "is_walker_rated": 0,
+    "walker": {
+        "first_name": "Driver",
+        "last_name": "Nexus",
+        "phone": "+21628387270",
+        "bio": "azerty",
+        "picture": "http://cab.dev.nexus2i.com/protaxi/public/uploads/1478885797248410640.png",
+        "latitude": 36.8722762,
+        "longitude": 10.3024783,
+        "type": 3,
+        "rating": 2.68,
+        "num_rating": 19,
+        "car_model": "model",
+        "car_number": "1234"
+    },
+    "payment_mode": 1,
+    "bill": {
+        "payment_mode": 1,
+        "distance": "0.039277546",
+        "unit": "kms",
+        "time": 0,
+        "base_price": 20,
+        "distance_cost": 0,
+        "time_cost": 0,
+        "walker": {
+            "email": "nabil.boujemla@gmail.com",
+            "amount": "0"
+        },
+        "admin": {
+            "email": "cab@nexus2i.com",
+            "amount": 20
+        },
+        "currency": "$",
+        "actual_total": 20,
+        "total": 20,
+        "is_paid": 1,
+        "promo_discount": 0,
+        "main_total": 20,
+        "referral_bonus": 0,
+        "promo_bonus": 0,
+        "payment_type": 1,
+        "type": [
+            {
+                "name": "Cab",
+                "price": 20
+            }
+        ]
+    },
+    "owner": {
+        "name": "Karim Karim",
+        "picture": "http://cab.dev.nexus2i.com/protaxi/public/uploads/28cdc97e47063e71d927a14cd555497fdd70df34.jpg",
+        "phone": "+21698349277",
+        "address": "",
+        "bio": "",
+        "latitude": 36.87245673,
+        "longitude": 10.30844305,
+        "owner_dist_lat": 0,
+        "owner_dist_long": 0,
+        "dest_latitude": 0,
+        "dest_longitude": 0,
+        "payment_type": 1,
+        "rating": 2.75,
+        "num_rating": 14
+    },
+    "payment_option": 1,
+    "request": {
+        "request_id": "64",
+        "status": 1,
+        "confirmed_walker": 14,
+        "is_walker_started": 1,
+        "is_walker_arrived": 1,
+        "is_started": 1,
+        "is_walk_started": 1,
+        "is_completed": 1,
+        "is_dog_rated": 0,
+        "is_cancelled": 0,
+        "is_walker_rated": 0,
+        "dest_latitude": 0,
+        "dest_longitude": 0,
+        "accepted_time": "2016-11-16 11:49:45",
+        "payment_type": 1,
+        "distance": "3.9E-5",
+        "unit": "kms",
+        "end_time": "2016-11-16 11:51:36",
+        "owner": {
+            "name": "Karim Karim",
+            "picture": "http://cab.dev.nexus2i.com/protaxi/public/uploads/28cdc97e47063e71d927a14cd555497fdd70df34.jpg",
+            "phone": "+21698349277",
+            "address": "",
+            "bio": "",
+            "latitude": 36.87245673,
+            "longitude": 10.30844305,
+            "owner_dist_lat": 0,
+            "owner_dist_long": 0,
+            "dest_latitude": 0,
+            "dest_longitude": 0,
+            "payment_type": 1,
+            "rating": 2.75,
+            "num_rating": 14
+        },
+        "dog": [],
+        "bill": {
+            "payment_mode": 1,
+            "distance": "0.039277546",
+            "unit": "kms",
+            "time": 0,
+            "base_price": 20,
+            "distance_cost": 0,
+            "time_cost": 0,
+            "walker": {
+                "email": "nabil.boujemla@gmail.com",
+                "amount": "0"
+            },
+            "admin": {
+                "email": "cab@nexus2i.com",
+                "amount": 20
+            },
+            "currency": "$",
+            "actual_total": 20,
+            "total": 20,
+            "is_paid": 1,
+            "promo_discount": 0,
+            "main_total": 20,
+            "referral_bonus": 0,
+            "promo_bonus": 0,
+            "payment_type": 1,
+            "type": [
+                {
+                    "name": "Cab",
+                    "price": 20
+                }
+            ]
+        },
+        "card_details": "",
+        "charge_details": {
+            "unit": "kms",
+            "base_price": 20,
+            "distance_price": 0,
+            "price_per_unit_time": 0,
+            "total": 20,
+            "is_paid": 1
+        },
+        "payment_option": 1
+    }
+}
